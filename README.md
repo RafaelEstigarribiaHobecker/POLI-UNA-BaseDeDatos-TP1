@@ -24,5 +24,5 @@ Este repositorio contiene la arquitectura inicial del proyecto (Diseño Conceptu
 
 **Instrucciones de revisión técnica:**
 Los archivos fuente originales se encuentran en este repositorio para su visualización o modificación:
-* **Modelo Conceptual (ERDPlus):** Descargue el archivo `TPBDparcial.erdplus` e impórtelo en [ERDPlus.com](https://erdplus.com/).
+* **Modelo Conceptual (ERDPlus):** Descargue el archivo `TPBD.erdplus` e impórtelo en [ERDPlus.com](https://erdplus.com/).
 * **Modelo Relacional (Power Architect):** Descargue el archivo `TPBD.architect` y ábralo utilizando el software SQL Power Architect.
