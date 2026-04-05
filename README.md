@@ -14,7 +14,7 @@ El diseño de la base de datos debe soportar las siguientes operaciones core:
 ## Modelo Entidad-Relación (E-R)
 Aquí se presenta el diseño visual de la base de datos, aplicando normalización y asegurando la integridad referencial.
 
-![Diagrama ER](./diagramaTP.png) 
+![Diagrama ER](./IMG_0372.png) 
 *(Nota: Si no puede visualizar los detalles, haga clic en la imagen para ampliarla).*
 
 ---
